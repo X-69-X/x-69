@@ -1,4 +1,4 @@
-# PIXA.PICS
+# PIXA.PICS | STORING PIXEL ART NFT ONE THOUSAND YEARS!
 
 
 [![Storing pixel art video thumnbail](https://github.com/pixa-pics/pixa-pics.github.io/blob/main/src/images/screenshots/STORAGE.jpeg?raw=true)](https://www.youtube.com/watch?v=cctknQhVX1w)
