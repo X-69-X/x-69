@@ -1,6 +1,8 @@
 # PIXA.PICS
 
-[![AI Generated promotional video of pixe.pics](https://raw.githubusercontent.com/pixa-pics/pixa-pics.github.io/main/src/images/screenshots/VIDEO2.png)](https://www.youtube.com/watch?v=V-6-m4bHeJU)
+
+[![Storing pixel art video thumnbail](https://github.com/pixa-pics/pixa-pics.github.io/blob/main/src/images/screenshots/STORAGE.jpeg?raw=true)](https://www.youtube.com/watch?v=cctknQhVX1w)
+> Click the image to watch the video on Youtube or watch the demo usage video: https://youtu.be/WlgGdmXmVDo
 
 ****
 
