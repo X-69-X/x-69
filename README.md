@@ -2,7 +2,9 @@
 
 
 [![Storing pixel art video thumnbail](https://github.com/pixa-pics/pixa-pics.github.io/blob/main/src/images/screenshots/STORAGE.jpeg?raw=true)](https://www.youtube.com/watch?v=cctknQhVX1w)
-> Click the image to watch the video on Youtube or watch the demo usage video: https://youtu.be/WlgGdmXmVDo
+> Click the image to watch the video on Youtube or watch a demo video: https://youtu.be/WlgGdmXmVDo
+
+[1000 YEARS READY NFTS - HANDBOOK.PDF](https://github.com/pixa-pics/pixa-pics.github.io/blob/main/1000%20Years%20ready%20NFTs%20-%20Handbook.pdf)
 
 ****
 
